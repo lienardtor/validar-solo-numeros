@@ -2,7 +2,7 @@
 
 soloNumeros.js
 
-Función recursiva en javascript que valida que un usuario sólo introduzca números dese el teclado.
+Función recursiva en javascript que valida que un usuario sólo introduzca números desde el teclado.
 
 Recibe como argumento el valor de la tecla pulsada por el usuario.
 
